@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 cp -rua *.html ../
+=======
+#!/bin/bash
+cp -rua *.html ../
+>>>>>>> fb167eec2e88256d0457f8f3f7ce55e907f320e3
